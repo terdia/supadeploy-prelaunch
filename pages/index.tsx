@@ -89,7 +89,7 @@ export default function PresaleLandingPage() {
               </p>
             </div>
             <div className="flex-1 mt-10 lg:mt-0 w-full max-w-lg mx-auto lg:max-w-none">
-              <img src="/api/placeholder/800/600" alt="SupaDeploy Dashboard" className="rounded-lg shadow-2xl w-full" />
+              <img src="/dashboard.jpeg" alt="SupaDeploy Dashboard" className="rounded-lg shadow-2xl w-full" />
             </div>
           </div>
         </section>
